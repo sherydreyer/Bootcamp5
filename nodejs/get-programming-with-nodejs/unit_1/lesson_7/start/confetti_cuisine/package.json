@@ -1,0 +1,14 @@
+{
+  "name": "confetti_cuisine",
+  "version": "1.0.0",
+  "description": "recipe app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sheryl",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.3.0"
+  }
+}
